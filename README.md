@@ -2,7 +2,7 @@
 <h1><em>Ever growing list of links and resources for Web Development<em></h1>
     
   <br>
-  <ul>
+  <ul id="top">
   <li><a href="#resources">Resources</a></li>
   <li><a href="#html">HTML</a></li>
   <li><a href="#boot">Bootstrap/CSS</a></li>
@@ -136,6 +136,7 @@
   <li>https://github.com/frappe/charts
   <li>https://yarnpkg.com/advanced/architecture
  </ul>
+  <a href="#top">back</a>
  <br>
  
  <a id="html"><h3> HTML</h3></a>
@@ -150,6 +151,7 @@
   <li>http://www.boilrplate.com/
   <li>https://themeforest.net/
  </ul>
+   <a href="#top">back</a>
   <br>
   
  <a id="boot"><h3> Bootstrap/CSS</h3></a>
@@ -194,6 +196,7 @@
 <li>https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 <li>https://bootstrapious.com/p/bootstrap-tips-and-tricks
 </ul>
+ <a href="#top">back</a>
   <br>
   
  <a id="js"><h3> JavaScript</h3></a>
@@ -252,6 +255,7 @@
 <li>https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c
 <li>https://www.encodedna.com/javascript/how-to-create-a-simple-crud-application-using-only-javascript.htm
 </ul>
+ <a href="#top">back</a>
 <br>
 
  <a id="react"><h3> React</h3></a>
@@ -316,12 +320,14 @@
 <li>https://www.robinwieruch.de/react-state-array-add-update-remove
 <li>https://nordicapis.com/syntactic-sugar-apis/
 </ul>
+<a href="#top">back</a>
 <br>
 
  <a id="redux"><h3> Redux</h3></a>
  <ul>
 <li>https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367
 </ul>
+<a href="#top">back</a>
 <br>
 
  <a id="figma"><h3> Figma</h3></a>
@@ -335,3 +341,4 @@
 <li>https://www.figma.com/best-practices/working-with-images-in-figma/importing-images-in-figma/
 <li>https://www.youtube.com/watch?v=FK4YusHIIj0
 </ul>
+<a href="#top">back</a>
