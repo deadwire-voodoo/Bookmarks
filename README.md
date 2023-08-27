@@ -8,7 +8,7 @@
   <li><a href="#boot">Bootstrap/CSS</a></li>
   <li><a href="#js">JavaScript</a></li>
   <li><a href="#react">React</a></li>
-  <li><a href="#redux">Redux</a></li>
+  <li><a href="#tailwind">Tailwind</a></li>
   <li><a href="#figma">Figma</a></li>
   </ul>
   <br>
@@ -323,11 +323,54 @@
 <a href="#top">back</a>
 <br>
 
- <a id="redux"><h3> Redux</h3></a>
- <ul>
-<li>https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367
+<a id="tailwind"><h3>Tailwind</h3></a>
+<ul>
+    <li>https://freefrontend.com/tailwind-code-examples/
+    <li>https://treact.owaiskhan.me/
+    <li>https://www.floatui.com/
+    <li>https://kimia-ui.vercel.app/
+    <li>https://kitwind.io/products/kometa/
+    <li>https://tailblocks.cc/
+    <li>https://www.mambaui.com/
+    <li>https://flowrift.com/w/
+    <li>https://flowbite.com/
+    <li>https://wickedblocks.dev/
+    <li>https://preline.co/
+    <li>https://tailwind-elements.com/
+    <li>https://merakiui.com/
+    <li>https://layoutsfortailwind.lalokalabs.dev/
+    <li>https://daisyui.com/
+    <li>https://www.tailwind-kit.com/
+    <li>https://tocinocode.com/
+    <li>https://www.tailbits.com/
+    <li>https://nerdcave.com/tailwind-cheat-sheet
+    <li>https://github.com/aniftyco/awesome-tailwindcss#tools
+    <li>https://tailus.io/
+    <li>https://www.gust-ui.com/
+    <li>https://headlessui.com/
+    <li>https://lazydev-vercel-app.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+    <li>https://www.hyperui.dev/
+    <li>https://www.vechaiui.com/
+    <li>https://fancytailwind.com/
+    <li>https://konstaui.com/
+    <li>https://ui.supabase.io/
+    <li>https://tailwindcss.5balloons.info/
+    <li>https://xtendui.com/
+    <li>https://sailui.github.io/ui/
+    <li>https://mynaui.com/
+    <li>https://www.material-tailwind.com/
+    <li>https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+    <li>https://kutty.netlify.app/
+    <li>https://postsrc.com/components
+    <li>https://a17t.miles.land/
+    <li>https://www.tailymate.com/
+    <li>https://snippets.alexandru.so/
+    <li>https://whoobe-one-studio.vercel.app/
+    <li>https://devdojo.com/tailwindcss/components
+    <li>https://medium.com/themesberg-blog/collection-of-open-source-drawer-components-for-tailwind-css-c624e7ce03b4                                                 
 </ul>
 <a href="#top">back</a>
+
 <br>
 
  <a id="figma"><h3> Figma</h3></a>
